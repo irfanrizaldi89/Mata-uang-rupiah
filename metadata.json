@@ -1,0 +1,6 @@
+{
+  "name": "Kenal Rupiah",
+  "description": "Web game edukasi interaktif untuk siswa sekolah dasar belajar mengenal pecahan mata uang Rupiah, menebak nominal, dan berlatih belanja dengan uang pas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
